@@ -73,4 +73,4 @@ python main.py
 
 ## License
 
-MIT (or update to match your preferred license)
+Apache License 2.0
