@@ -26,7 +26,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     if not update.message:
         return
     await update.message.reply_text(
-        "<b>Help:<b>\n\n"
+        "<b>Help:</b>\n\n"
         "<b>Commands:</b>\n"
         "/start - Start bot\n"
         "/help - Help\n"
